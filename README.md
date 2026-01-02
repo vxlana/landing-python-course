@@ -15,4 +15,4 @@ Figma layout: https://www.figma.com/design/ubnk2O1B4epIG2fR76i0sz/PYDEV---Landin
 - CSS3
 
 # Preview
-![Landing preview](assets/img/landing.png)
+![Landing preview](assets/img/page_landing.png)
